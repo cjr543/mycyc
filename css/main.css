@@ -1,0 +1,113 @@
+		body{
+			font-family: "微软雅黑", sans-serif;
+			background-color: #EADDC6;
+		}
+		.container{
+			max-width: 600px;
+			padding-left: 0;
+			padding-right: 0;
+		}
+		#title{
+			background-color:#EDA948;
+			padding: 15px 15px;
+			font-size: 24px;
+		}
+		#navi{
+			background-color:#C3A979;
+			padding-top: 5px;
+			padding-left:15px;
+			height: 30px;
+			font-size:16px;
+		}
+		#navi ul{
+			display:inline;
+			list-style:none;
+		}
+		#navi ul li{
+			float: left;
+			margin-right:10px;
+		}
+		.footer-line1{
+			margin-top: 10px;
+			height: 5px;
+			background-color:#DDC7A0;
+		}
+		.footer-line2{
+			height: 50px;
+			background-color:#EDA948;
+			text-align:center;
+			padding-top: 13px;
+		}
+		h1,h2,h3,h4,h5,h6{
+			font-family: "微软雅黑", sans-serif;
+		}
+		#thin{
+			padding:5px 15px;
+		}
+		.home-btn{
+			font-size:18px;
+			display:block;
+			width:100%;
+			margin:30px 0;
+		}
+		.info{
+			padding-bottom:10px;
+		}
+		.info .name{
+			margin-top:10px;
+			font-size: 16px;
+		}
+		.info .deliver-amount{
+			margin-left: 10px;
+		}
+		.info .special{
+			margin-bottom:10px;
+		}
+		hr{
+			margin-top: 0px;
+			margin-bottom: 0px;
+			border-top: 1px dashed #C3A979;
+		}
+		.closed{
+			background-color: #CDC9A5;
+		}
+		.address{
+			margin-bottom:10px;
+		}
+		#filter{
+			display:inline;
+		}
+		#food-category{
+			display:inline;
+			list-style:none;
+		}
+		#food-category li{
+			float: left;
+			margin-right: 5px;
+		}
+		#food-category-wrapper{
+			height:20px;
+		}
+		.my_food table{
+			width: 100%;
+		}
+		.my_food table tr{
+			border-bottom: 1px dashed #EEE;
+		}
+		.food_no_img .no_f_name{
+			padding: 5px 0;
+			width:60%;
+		}
+		.food_no_img .no_f_price{
+			width:15%;
+		}
+		.food_type{
+			margin-top:20px;
+		}
+		.food_type p{
+			display: inline;
+			font-size:18px;
+		}
+		.top{
+			width:75%;
+		}
